@@ -1,1 +1,1 @@
-# show-do-milhao
+# show-do-milhao Projeto da faculade de ciência da computação de Juiz de Fora MG (UFJF), que consiste na construção do jogo do show do milhão em Java, com o objetivo de compreender melhor o funcionamento da programação orientada a objetos.
