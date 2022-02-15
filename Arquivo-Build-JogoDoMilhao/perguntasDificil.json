@@ -1,0 +1,14 @@
+[
+    { "pergunta": "Onde se podem ver as cariates no Templo de Erecteion?", "primeiraAlt": "Atenas", "segundaAlt": "Bruxelas", "terceiraAlt": "Viena", "quartaAlt": "Copenhaga", "respCerta": 1, "dificuldade": "dificil" },
+    { "pergunta": "Aproximadamente quantos milhoes de habitantes tem Portugal?", "primeiraAlt": "7 milhoes", "segundaAlt": "9 milhoes", "terceiraAlt": "10.5 milhoes", "quartaAlt": "15 milhoes", "respCerta": 3, "dificuldade": "dificil" },
+    { "pergunta": "Qual a formula quimica do acido nitrico?", "primeiraAlt": "NH4OCN", "segundaAlt": "NH3", "terceiraAlt": "N2H4", "quartaAlt": "HNO3", "respCerta": 4, "dificuldade": "dificil" },
+    { "pergunta": "Em que ano foi criado o Banco Central do Brasil (BC, BACEN ou BCB)?", "primeiraAlt": "1800", "segundaAlt": "1964", "terceiraAlt": "1965", "quartaAlt": "1864", "respCerta": 2, "dificuldade": "dificil" },
+    { "pergunta": "Onde nasceu a grande cantora de opera Maria Callas?", "primeiraAlt": "Roma", "segundaAlt": "Atenas", "terceiraAlt": "Nova York", "quartaAlt": "Paris", "respCerta": 3, "dificuldade": "dificil" },
+    { "pergunta": "Qual destas hipoteses nao e uma lua?", "primeiraAlt": "Tita", "segundaAlt": "Deimos", "terceiraAlt": "Io", "quartaAlt": "Cassiopeia", "respCerta": 4, "dificuldade": "dificil" },
+    { "pergunta": "Durante a guerra da Cisplatina, o Brasil teve que recorrer a mercenários de dois paises. Quais eram eles?", "primeiraAlt": "EUA e Portugal", "segundaAlt": "Inglaterra e Espanha", "terceiraAlt": "Alemanha e Irlanda", "quartaAlt": "França e Itália", "respCerta": 3, "dificuldade": "dificil" },
+    { "pergunta": "A final da Liga dos Campeões de futebol em 2014 foi jogada em que estadio?","primeiraAlt": "Estadio de Wembley","segundaAlt": "Camp Nou","terceiraAlt": "Luzhniki Stadium","quartaAlt": "Estadio da Luz","respCerta": 4,"dificuldade": "dificil"},
+    { "pergunta": "O primeiro nivel trofico numa cadeia alimentar é sempre ocupada por...","primeiraAlt": "Seres alimentares","segundaAlt": "Seres autotrofos","terceiraAlt": "Seres decompositores","quartaAlt": "Seres heterotrofos","respCerta": 2,"dificuldade": "dificil"},
+    { "pergunta": "Foi uma sonda espacial lançada pelos americanos, em 1975, para estudar Marte. Qual o seu nome?", "primeiraAlt": "Viking", "segundaAlt": "Cassini", "terceiraAlt": "Voyager", "quartaAlt": "Clementine", "respCerta": 1, "dificuldade": "dificil" },
+    { "pergunta": "O musico de jazz Max Roach alargou as fronteiras de desses instrumentos?", "primeiraAlt": "Saxofone", "segundaAlt": "Piano", "terceiraAlt": "Bateria", "quartaAlt": "Baixo", "respCerta": 3, "dificuldade": "dificil" },
+    { "pergunta": "Quantos KW representa 1 cavalo-vapor (CV)?", "primeiraAlt": "1,255", "segundaAlt": "0,7355", "terceiraAlt": "1,501", "quartaAlt": "2", "respCerta": 2, "dificuldade": "dificil" }
+]
